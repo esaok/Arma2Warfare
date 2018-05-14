@@ -1,15 +1,16 @@
-# ZARGABAD MAP RELATED RESOURCES
+# MAIN BRANCH Of SOURCES
 ```
-Here You will find resources for zargabad map
+Here You will find all sources of missions that do not depend on map type.
 ```
 ## Bundling of missions
 ```
-1) Create a mission folder f.e. "[55-2hc]warfarev2_073v47co.zargabad"
+1) Create a mission folder f.e. "[55-2hc]warfarev2_073v47co.chernarus"
 2) Create "Master" folder;
 3) clone master branch in "Master" folder.  
-4) Create a fodler for mission related resource. F.e. call it "zarga"
-5) clone mission related resources from zarga branch
-6) Put all files from "Master" and "zarga" folders in "[55-2hc]warfarev2_073v47co.zargabad"
+4) Create a fodler for mission related resource. F.e. call it "cherno"
+5) clone mission related resources from cherno branch
+6) Put all files from "Master" and "cherno" folders in "[55-2hc]warfarev2_073v47co.chernarus"
+
 ```
 ## GIT WORKFLOW EXAMPLE: Basic Git clone, modify, commit, and push.
 ```
@@ -48,8 +49,8 @@ git status
 Poseidon IDE - http://www.armaholic.com/page.php?id=22139
 BIS tools	 - https://community.bistudio.com/wiki/BI_Tools_2.5
 ```
-```
 ## USEFULL LINKS
 ```
 WASP community
 http://wasp-team.org/forum
+```
