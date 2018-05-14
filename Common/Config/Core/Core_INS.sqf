@@ -91,7 +91,7 @@ _c = _c + ['UralOpen_INS'];
 _i = _i + [['','',490,20,-2,1,1,0,'Insurgents',[]]];
 
 _c = _c + ['Ural_INS'];
-_i = _i + [['','',500,20,-2,1,1,0,'Insurgents',[]]];
+_i = _i + [['','',500,20,-2,0,1,0,'Insurgents',[]]];
 
 _c = _c + ['WarfareSalvageTruck_INS'];
 _i = _i + [['','',750,18,-2,1,1,0,'Insurgents',[]]];
