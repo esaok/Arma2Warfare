@@ -37,7 +37,7 @@
         <Italian>Player %1 (ID: %2) was not allowed to join %3 to guarantee team balance.</Italian>
       </Key>
 	<Key ID="STR_Voting">
-        <English>Voting</English>
+        <English>Start Commander Vote</English>
         <French>Voting</French>
         <German>Voting</German>
         <Russian>Цель</Russian>
